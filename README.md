@@ -3,10 +3,10 @@ Banking Website Frontend A clean and responsive frontend for a banking website, 
 <br>
 Features:
 <br>
-✔️ Modern UI with a professional design
-✔️ Responsive layout for different screen sizes
-✔️ Navigation bar with multiple sections
-✔️ Call-to-action buttons for seamless user interaction
+- ✔️ Modern UI with a professional design
+- ✔️ Responsive layout for different screen sizes
+- ✔️ Navigation bar with multiple sections
+- ✔️ Call-to-action buttons for seamless user interaction
 
 Future Enhancements:
 <br>
